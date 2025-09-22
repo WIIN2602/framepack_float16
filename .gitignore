@@ -1,0 +1,14 @@
+.env
+env/
+.venv/
+venv/
+__pycache__/
+userdata/
+*.mp4
+*.wav
+*.mp3
+*.png
+*.jpg
+*.mkv
+
+float16.conf
